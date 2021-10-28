@@ -35,7 +35,7 @@ two image files are attached for reference & also included in Project file.
 
 2. Normality Assumptions : best way to visualize using Histograms.
 
-3. Coeeicients & Feature Importances.
+3. Coefficients & Feature Importances.
 
 4. Co-relation 
 
